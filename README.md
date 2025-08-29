@@ -39,20 +39,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-  <!-- Light mode -->
-  <img src="https://raw.githubusercontent.com/Gede-Suputra/Gede-Suputra/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-
-  <!-- Dark mode -->
-  <img src="https://github.com/Gede-Suputra/Gede-Suputra/blob/output/github-contribution-grid-snake-dark.svg" />
-
-
-  <br/><br/><br/>
-</div>
-
 
 <hr/>
 
